@@ -12,6 +12,7 @@ v0.0.1: https://youtu.be/MMCnkTd7n-c
 Start Date: Aug 9th, 2025 -- two days after GPT-5 released
 - v0.0.1: player block character, WASD movement, boundaries, exit, HUD
 - v0.0.2: game title (also in HUD), and title/author/version REM statements
+- v0.0.3: added dates (start date and current version date)
 
 ## Platform
 - TI-99/4A Home computer
