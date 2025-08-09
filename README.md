@@ -1,10 +1,14 @@
 # TI Quest -- TI-99/4A RPG
 GPT-5 vibe-coded MVP RPG in TI Extended BASIC for the TI-99/4A Home computer.
 
-## Videos
-
+## Latest Video
 [![TI QUEST v0.0.2 Gameplay](https://img.youtube.com/vi/MMCnkTd7n-c/0.jpg)](https://www.youtube.com/watch?v=MMCnkTd7n-c)  
 v0.0.1: https://youtu.be/MMCnkTd7n-c
+
+## Dev Log
+- Start Date: Aug 9th, 2025 -- two days after GPT-5 released
+- v0.0.1: player block character, WASD movement, boundaries, exit, HUD
+- v0.0.2: game title (also in HUD), and title/author/version REM statements
 
 ## Platform
 - TI-99/4A Home computer
